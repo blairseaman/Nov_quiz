@@ -1,0 +1,25 @@
+ 
+	#quiz.css {
+
+			color: #111;
+            font-size: 16px;
+            font-family: 'Georgia', serif;
+            width: 60%;
+
+	}
+
+ 	#pull-quote {
+ 		color: #007A36;
+ 		margin-left: of 10px;  
+ 		border: 2px dashed orangered;
+ 		text-align: center;
+ 		font-style: italic;
+ 		font-size: 20px 
+       } 
+ 	
+    
+#byline { 
+	color= #282828;
+	font-style: italic; 
+	margin: center; 
+}
